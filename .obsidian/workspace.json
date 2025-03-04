@@ -20,8 +20,51 @@
               "icon": "lucide-file",
               "title": "数据结构"
             }
+          },
+          {
+            "id": "b0b6484f0e1930ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "26考研/deepseek艺术/排序理解.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "排序理解"
+            }
+          },
+          {
+            "id": "f2e14799fef1186f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "26考研/408/数据结构.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "数据结构"
+            }
+          },
+          {
+            "id": "965fe067cb6ab813",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "26考研/deepseek艺术/排序理解.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "排序理解"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "5888889bb58bf071",
@@ -40,8 +83,23 @@
               "icon": "lucide-file",
               "title": "数据结构"
             }
+          },
+          {
+            "id": "433fc21ebf5b2cad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "26考研/deepseek艺术/排序流程.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "排序流程"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -188,15 +246,19 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "31ed569c9b8e3425",
+  "active": "f2e14799fef1186f",
   "lastOpenFiles": [
+    "26考研/deepseek艺术/排序理解.md",
     "26考研/408/数据结构.md",
+    "26考研/deepseek艺术/排序诗.md",
+    "26考研/deepseek艺术/排序流程.md",
+    "26考研/deepseek艺术",
+    "26考研/时间日志.md",
     "26考研/数学/高数.md",
     "26考研/408",
     "26考研/未命名.md",
     "26考研/防崩心态包.md",
     "26考研/数学",
-    "26考研/时间日志.md",
     "26考研",
     "防崩心态包.md",
     "时间日志.md"
