@@ -5,6 +5,7 @@
     "editor:insert-embed",
     "editor:insert-tag",
     "editor:attach-file",
+    "editor:insert-mathblock",
     "editor:set-heading",
     "editor:toggle-bold",
     "editor:toggle-italics",
