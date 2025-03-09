@@ -24,5 +24,6 @@
     "editor:configure-toolbar",
     "editor:insert-codeblock",
     "theme:switch"
-  ]
+  ],
+  "vimMode": true
 }
