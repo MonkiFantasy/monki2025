@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "26考研/数学/高数.md",
+                "file": "26考研/deepseek艺术/数学公式插入.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "高数"
+              "title": "数学公式插入"
             }
           },
           {
@@ -62,12 +62,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "26考研/408/数据结构.md",
+                "file": "26考研/408/计算机组成原理.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "数据结构"
+              "title": "计算机组成原理"
             }
           }
         ]
@@ -217,26 +217,30 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "4a6be1ee395ac1ed",
+  "active": "c758f85ed17d16a8",
   "lastOpenFiles": [
-    "26考研/deepseek艺术/补码相关.md",
+    "26考研/数学/错题索引.md",
     "26考研/408/计算机组成原理.md",
+    "26考研/408/计算机网络.md",
+    "26考研/数学/高数.md",
+    "26考研/408/数据结构.md",
+    "26考研/deepseek艺术/数学公式插入.md",
+    "26考研/deepseek艺术/排序诗.md",
+    "26考研/deepseek艺术/推导.md",
+    "26考研/408/考纲.md",
+    "路由器广播转发误区.md",
+    "26考研/deepseek艺术/补码相关.md",
     "Pasted image 20250311154037.png",
     "26考研/deepseek艺术/无穷大量.md",
-    "26考研/数学/高数.md",
-    "26考研/408/考纲.md",
     "未命名 1.md",
     "26考研/deepseek艺术/极值定义.md",
     "26考研/deepseek艺术/绝对值不等式.md",
     "26考研/deepseek艺术/排序理解.md",
     "26考研/数学/基础公式.md",
-    "26考研/deepseek艺术/数学公式插入.md",
     "26考研/时间日志.md",
-    "26考研/408/数据结构.md",
     "Screenshot_2025-03-10-23-56-41-367_me.liujia95.solitude.jpg",
     "Pasted image 20250310182631.png",
     "26考研/408/操作系统.md",
-    "26考研/408/计算机网络.md",
     "Screenshot_2025-03-10-00-09-35-338_me.liujia95.solitude.jpg",
     "26考研/deepseek艺术/RAM相关.md",
     "26考研/deepseek艺术/IP数据报.md",
@@ -248,7 +252,6 @@
     "Screenshot_2025-03-09-15-40-51-823_tv.danmaku.bili.jpg",
     "26考研/deepseek艺术/排序流程.md",
     "26考研/防崩心态包.md",
-    "26考研/deepseek艺术/排序诗.md",
     "未命名",
     "26考研/deepseek艺术",
     "26考研/408",
