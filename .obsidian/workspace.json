@@ -6,6 +6,7 @@
       {
         "id": "af3aa34fc0da35e0",
         "type": "tabs",
+        "dimension": 54.73823724320742,
         "children": [
           {
             "id": "e3cfc41fc3f5dd90",
@@ -41,12 +42,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "26考研/408/计算机组成原理.md",
+                "file": "26考研/时间日志.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "计算机组成原理"
+              "title": "时间日志"
+            }
+          },
+          {
+            "id": "7c3f0de779d87f7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "未命名 1"
+            }
+          },
+          {
+            "id": "32a72644fc1e2e76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "26考研/408/考纲.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "考纲"
             }
           }
         ],
@@ -55,6 +84,7 @@
       {
         "id": "47a0ee01f048415e",
         "type": "tabs",
+        "dimension": 45.26176275679258,
         "children": [
           {
             "id": "c758f85ed17d16a8",
@@ -62,12 +92,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "26考研/408/计算机组成原理.md",
+                "file": "26考研/数学/高数.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "计算机组成原理"
+              "title": "高数"
             }
           }
         ]
@@ -217,27 +247,32 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c758f85ed17d16a8",
+  "active": "4a6be1ee395ac1ed",
   "lastOpenFiles": [
-    "26考研/数学/错题索引.md",
-    "26考研/408/计算机组成原理.md",
-    "26考研/408/计算机网络.md",
     "26考研/数学/高数.md",
-    "26考研/408/数据结构.md",
+    "26考研/数学/错题索引.md",
+    "未命名 1.md",
+    "26考研/408/考纲.md",
     "26考研/deepseek艺术/数学公式插入.md",
+    "未命名.md",
+    "Screenshot_2025-03-11-22-31-32-163_me.liujia95.solitude.jpg",
+    "Screenshot_2025-03-05-22-50-02-573_me.liujia95.solitude.jpg",
+    "Screenshot_2025-03-05-00-49-59-738_me.liujia95.solitude.jpg",
+    "Pasted image 20250311154037.png",
+    "Pasted image 20250313191352.png",
+    "26考研/408/计算机组成原理.md",
+    "26考研/数学/基础公式.md",
+    "26考研/408/计算机网络.md",
+    "26考研/时间日志.md",
+    "26考研/408/数据结构.md",
     "26考研/deepseek艺术/排序诗.md",
     "26考研/deepseek艺术/推导.md",
-    "26考研/408/考纲.md",
     "路由器广播转发误区.md",
     "26考研/deepseek艺术/补码相关.md",
-    "Pasted image 20250311154037.png",
     "26考研/deepseek艺术/无穷大量.md",
-    "未命名 1.md",
     "26考研/deepseek艺术/极值定义.md",
     "26考研/deepseek艺术/绝对值不等式.md",
     "26考研/deepseek艺术/排序理解.md",
-    "26考研/数学/基础公式.md",
-    "26考研/时间日志.md",
     "Screenshot_2025-03-10-23-56-41-367_me.liujia95.solitude.jpg",
     "Pasted image 20250310182631.png",
     "26考研/408/操作系统.md",
@@ -246,10 +281,6 @@
     "26考研/deepseek艺术/IP数据报.md",
     "Pasted image 20250309214842.png",
     "Pasted image 20250309183306.png",
-    "Pasted image 20250309182302.png",
-    "Pasted image 20250309181627.png",
-    "Screenshot_2025-03-05-00-49-59-738_me.liujia95.solitude.jpg",
-    "Screenshot_2025-03-09-15-40-51-823_tv.danmaku.bili.jpg",
     "26考研/deepseek艺术/排序流程.md",
     "26考研/防崩心态包.md",
     "未命名",
@@ -257,8 +288,6 @@
     "26考研/408",
     "26考研/未命名.md",
     "26考研/数学",
-    "26考研",
-    "防崩心态包.md",
-    "时间日志.md"
+    "26考研"
   ]
 }
