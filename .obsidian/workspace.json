@@ -6,7 +6,7 @@
       {
         "id": "af3aa34fc0da35e0",
         "type": "tabs",
-        "dimension": 54.73823724320742,
+        "dimension": 54.77338476374156,
         "children": [
           {
             "id": "e3cfc41fc3f5dd90",
@@ -42,12 +42,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "26考研/时间日志.md",
+                "file": "26考研/数学/错题索引.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "时间日志"
+              "title": "错题索引"
             }
           },
           {
@@ -84,7 +84,7 @@
       {
         "id": "47a0ee01f048415e",
         "type": "tabs",
-        "dimension": 45.26176275679258,
+        "dimension": 45.22661523625844,
         "children": [
           {
             "id": "c758f85ed17d16a8",
@@ -251,6 +251,8 @@
   "lastOpenFiles": [
     "26考研/数学/高数.md",
     "26考研/数学/错题索引.md",
+    "26考研/时间日志.md",
+    "Screenshot_2025-03-13-22-11-49-034_me.liujia95.solitude.jpg",
     "未命名 1.md",
     "26考研/408/考纲.md",
     "26考研/deepseek艺术/数学公式插入.md",
@@ -263,7 +265,6 @@
     "26考研/408/计算机组成原理.md",
     "26考研/数学/基础公式.md",
     "26考研/408/计算机网络.md",
-    "26考研/时间日志.md",
     "26考研/408/数据结构.md",
     "26考研/deepseek艺术/排序诗.md",
     "26考研/deepseek艺术/推导.md",
@@ -280,7 +281,6 @@
     "26考研/deepseek艺术/RAM相关.md",
     "26考研/deepseek艺术/IP数据报.md",
     "Pasted image 20250309214842.png",
-    "Pasted image 20250309183306.png",
     "26考研/deepseek艺术/排序流程.md",
     "26考研/防崩心态包.md",
     "未命名",
