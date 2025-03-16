@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "26考研/deepseek艺术/数学公式插入.md",
+                "file": "26考研/数学/高数.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "数学公式插入"
+              "title": "高数"
             }
           },
           {
@@ -42,12 +42,54 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "26考研/数学/高数.md",
+                "file": "26考研/数学/错题索引.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "高数"
+              "title": "错题索引"
+            }
+          },
+          {
+            "id": "42cc89cf73e764bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "26考研/408/考纲.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "考纲"
+            }
+          },
+          {
+            "id": "8904b18e699e2fe5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "26考研/408/操作系统.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "操作系统"
+            }
+          },
+          {
+            "id": "43ab00dff36352f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "26考研/408/数据结构.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "数据结构"
             }
           },
           {
@@ -79,7 +121,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "47a0ee01f048415e",
@@ -247,21 +289,26 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "4a6be1ee395ac1ed",
+  "active": "fc9721e074a39eaa",
   "lastOpenFiles": [
-    "26考研/数学/错题索引.md",
-    "26考研/数学/高数.md",
-    "26考研/408/计算机网络.md",
-    "26考研/408/计算机组成原理.md",
     "26考研/deepseek艺术/数学公式插入.md",
-    "26考研/deepseek艺术/无穷大量.md",
+    "26考研/数学/错题索引.md",
+    "Pasted image 20250316174029.png",
+    "26考研/数学/高数.md",
+    "26考研/408/数据结构.md",
+    "26考研/408/操作系统.md",
     "26考研/deepseek艺术/排序理解.md",
+    "26考研/408/计算机组成原理.md",
+    "26考研/408/计算机网络.md",
+    "26考研/408/考纲.md",
+    "Screenshot_2025-03-15-22-52-41-029_me.liujia95.solitude.jpg",
+    "Screenshot_2025-03-15-00-26-33-860_me.liujia95.solitude.jpg",
+    "26考研/deepseek艺术/无穷大量.md",
     "26考研/deepseek艺术/极值定义.md",
     "26考研/deepseek艺术/绝对值不等式.md",
     "26考研/时间日志.md",
     "Screenshot_2025-03-13-22-11-49-034_me.liujia95.solitude.jpg",
     "未命名 1.md",
-    "26考研/408/考纲.md",
     "未命名.md",
     "Screenshot_2025-03-11-22-31-32-163_me.liujia95.solitude.jpg",
     "Screenshot_2025-03-05-22-50-02-573_me.liujia95.solitude.jpg",
@@ -269,18 +316,13 @@
     "Pasted image 20250311154037.png",
     "Pasted image 20250313191352.png",
     "26考研/数学/基础公式.md",
-    "26考研/408/数据结构.md",
     "26考研/deepseek艺术/排序诗.md",
     "26考研/deepseek艺术/推导.md",
     "路由器广播转发误区.md",
     "26考研/deepseek艺术/补码相关.md",
     "Screenshot_2025-03-10-23-56-41-367_me.liujia95.solitude.jpg",
-    "Pasted image 20250310182631.png",
-    "26考研/408/操作系统.md",
-    "Screenshot_2025-03-10-00-09-35-338_me.liujia95.solitude.jpg",
     "26考研/deepseek艺术/RAM相关.md",
     "26考研/deepseek艺术/IP数据报.md",
-    "Pasted image 20250309214842.png",
     "26考研/deepseek艺术/排序流程.md",
     "26考研/防崩心态包.md",
     "未命名",
