@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "26考研/408/操作系统.md",
+                "file": "26考研/数学/错题索引.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "操作系统"
+              "title": "错题索引"
             }
           }
         ]
@@ -170,15 +170,17 @@
   },
   "active": "c758f85ed17d16a8",
   "lastOpenFiles": [
-    "26考研/deepseek艺术/原语在linux内核中实现.md",
+    "26考研/数学/高数.md",
+    "26考研/数学/错题索引.md",
+    "26考研/数学/基础公式.md",
+    "26考研/408/数据结构.md",
+    "26考研/deepseek艺术/数据结构-堆.md",
     "26考研/408/操作系统.md",
+    "26考研/deepseek艺术/原语在linux内核中实现.md",
     "26考研/deepseek艺术/路由器广播转发误区.md",
     "26考研/deepseek艺术/原语.md",
     "26考研/deepseek艺术/linux进程状态观测.md",
     "26考研/408/计算机网络.md",
-    "26考研/数学/高数.md",
-    "26考研/数学/错题索引.md",
-    "26考研/数学/基础公式.md",
     "26考研/deepseek艺术/RAM相关.md",
     "26考研/deepseek艺术/数学公式插入.md",
     "26考研/deepseek艺术/排序理解.md",
@@ -190,7 +192,6 @@
     "Screenshot_2025-03-16-22-15-19-324_me.liujia95.solitude.jpg",
     "26考研/408/考纲.md",
     "26考研/408/计算机组成原理.md",
-    "26考研/408/数据结构.md",
     "Pasted image 20250316205912.png",
     "Pasted image 20250316174029.png",
     "Screenshot_2025-03-15-22-52-41-029_me.liujia95.solitude.jpg",
@@ -205,7 +206,6 @@
     "26考研/deepseek艺术/推导.md",
     "26考研/deepseek艺术/补码相关.md",
     "26考研/deepseek艺术/IP数据报.md",
-    "26考研/deepseek艺术/排序流程.md",
     "未命名",
     "26考研/deepseek艺术",
     "26考研/408",
